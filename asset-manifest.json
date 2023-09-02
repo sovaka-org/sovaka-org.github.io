@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/sovaka-org.github.io/static/css/main.03d5ac2c.css",
+    "main.js": "/sovaka-org.github.io/static/js/main.5a918a43.js",
+    "static/media/BG.png": "/sovaka-org.github.io/static/media/BG.7c107875cdda33ead8d4.png",
+    "static/media/SOVAKA-LOGO.png": "/sovaka-org.github.io/static/media/SOVAKA-LOGO.25da524732a327ebd814.png",
+    "static/media/5_star_1.png": "/sovaka-org.github.io/static/media/5_star_1.11e74e3acb49f1900bf6.png",
+    "static/media/4_star_1.png": "/sovaka-org.github.io/static/media/4_star_1.a3e791d12d04c0de287e.png",
+    "static/media/4_5_star_1.png": "/sovaka-org.github.io/static/media/4_5_star_1.2519bc31e6f755877d74.png",
+    "static/media/5_star_2.png": "/sovaka-org.github.io/static/media/5_star_2.2b3f47dc34816739e28c.png",
+    "static/media/4_5_star_2.png": "/sovaka-org.github.io/static/media/4_5_star_2.e79429588bcaa7ef2f40.png",
+    "static/media/4_star_2.png": "/sovaka-org.github.io/static/media/4_star_2.8faa78d449b920a1a49f.png",
+    "static/media/HERO_IMG.png": "/sovaka-org.github.io/static/media/HERO_IMG.290dfbb55870072fb89b.png",
+    "static/media/react-logo-1-img.png": "/sovaka-org.github.io/static/media/react-logo-1-img.443ec513ef0752536b8a.png",
+    "static/media/mongo-img.png": "/sovaka-org.github.io/static/media/mongo-img.4d1763a20af23f3dbc1d.png",
+    "static/media/cpp-img.png": "/sovaka-org.github.io/static/media/cpp-img.2de0ae20980cffd2da09.png",
+    "static/media/chakra-ui-img.png": "/sovaka-org.github.io/static/media/chakra-ui-img.0719bee98cb0c0b83aeb.png",
+    "static/media/express-img.png": "/sovaka-org.github.io/static/media/express-img.1bf015f68c19ec2df22a.png",
+    "static/media/firebase-img.png": "/sovaka-org.github.io/static/media/firebase-img.733c129740848ac415a5.png",
+    "static/media/adobe-xd-img.png": "/sovaka-org.github.io/static/media/adobe-xd-img.a4e696688c41dc1da532.png",
+    "static/media/twitter.svg": "/sovaka-org.github.io/static/media/twitter.aca5b8ea6971fbd9505a26d5f9fda7bc.svg",
+    "static/media/linkedin.svg": "/sovaka-org.github.io/static/media/linkedin.a67a2736c8d4e5518961c13e62273138.svg",
+    "static/media/instagram.svg": "/sovaka-org.github.io/static/media/instagram.9b30836ac28f9b61f78d7e2aaad58bbc.svg",
+    "index.html": "/sovaka-org.github.io/index.html",
+    "main.03d5ac2c.css.map": "/sovaka-org.github.io/static/css/main.03d5ac2c.css.map",
+    "main.5a918a43.js.map": "/sovaka-org.github.io/static/js/main.5a918a43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d5ac2c.css",
+    "static/js/main.5a918a43.js"
+  ]
+}
