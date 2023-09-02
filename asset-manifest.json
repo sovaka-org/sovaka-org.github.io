@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.876b059b.css",
-    "main.js": "/static/js/main.1b7767c9.js",
+    "main.js": "/static/js/main.3b41ba13.js",
     "static/media/BG.png": "/static/media/BG.7c107875cdda33ead8d4.png",
     "static/media/SOVAKA-LOGO.png": "/static/media/SOVAKA-LOGO.25da524732a327ebd814.png",
     "static/media/5_star_1.png": "/static/media/5_star_1.11e74e3acb49f1900bf6.png",
@@ -23,10 +23,10 @@
     "static/media/instagram.svg": "/static/media/instagram.9b30836ac28f9b61f78d7e2aaad58bbc.svg",
     "index.html": "/index.html",
     "main.876b059b.css.map": "/static/css/main.876b059b.css.map",
-    "main.1b7767c9.js.map": "/static/js/main.1b7767c9.js.map"
+    "main.3b41ba13.js.map": "/static/js/main.3b41ba13.js.map"
   },
   "entrypoints": [
     "static/css/main.876b059b.css",
-    "static/js/main.1b7767c9.js"
+    "static/js/main.3b41ba13.js"
   ]
 }
